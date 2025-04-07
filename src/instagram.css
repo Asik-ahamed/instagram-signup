@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main{
+    display: flex;
+    width: 100%;
+    height: 39em;
+    justify-content: center;
+    text-align: center;
+}
+
+.main1{
+    display: flex;
+    background-color: none;
+    width: 22em;
+    height: 40em;
+    justify-content: center;
+    text-align: center;
+    margin-top: 4em;
+    border: 1px solid black;
+}
+
+.main2{
+    margin-top: 3em;
+}
+
+.main2 h1{
+    font-weight: 700;
+  font-style: italic;
+}
+
+.main2 p{
+   margin-left: 3em;
+    padding: 10px;
+    width: 17em;
+}
+
+.main2 button{
+    padding: 10px;
+    width: 20em;
+    /* border: 1px solid black;
+    border-radius: 10px;
+     background-color: #3b5998;
+     color: white; */
+     margin-top: 1em;
+     font-weight: 700;
+}
+
+
+.main2 #aa{
+    margin-top: 1em;
+    padding: 0;
+    width: 20em;
+} 
+
+.india{
+    margin: 20px auto;
+    width: 20em; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.main2 #bb{
+    margin-top: 1em;
+   padding: 0;
+    width: 20em;
+}
+
+.main2 #cc{
+    margin-top: 1em;
+    padding:0;
+    width: 20em;
+}
+
+.main2 #dd{
+    margin-top: 1em;
+    padding: 0;
+    width: 20em;
+}
+
+.main2 .apple{
+    margin-top: 1em;
+    font-size: 13px;
+    width: 24em;
+    margin-right: 3em;
+}
+
+.main2 .apple a{
+    text-decoration: none;
+}
+
+.main2 .mango{
+    font-size: 13px;
+    width: 24em;
+    margin-right: 3em;
+}
+
+.main2 .mango a{
+    text-decoration: none;
+}
+
+.main2 #naruto{
+    font-weight: 700;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.container1{
+    margin: 2em;
+    width: 100%;
+    height: 50em;
+    background-color: none;
+    margin-top: 70em;
+  }
+  
+  
+  
+.container2 h1{
+    margin-top: 2em;
+    text-align: center;
+  }
+  
+table {
+    width: 100%;
+    margin-top: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+th, td {
+    border: 2px solid black;
+    padding: 10px;
+    text-align: left;
+  }
+  
+th {
+    background-color:none;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+tr:nth-child(even) {
+    background-color: none;
+  }
+  
+td {
+    color:green;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+  }
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
