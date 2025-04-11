@@ -69,6 +69,7 @@ function Instagram() {
               label="Password"
               variant="outlined"
               value={password}
+              type="password"
               onChange={(e) => setpassword(e.target.value)}
               error={formSubmitted && !password}
               helperText={formSubmitted && !password ? "Password is required" : ""}
