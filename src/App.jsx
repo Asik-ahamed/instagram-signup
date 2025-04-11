@@ -3,8 +3,8 @@ import { Routes, Route } from "react-router-dom";
 import Instagram from "./instagram";
 import { UserProvider } from "./UserContext";
 import UserTable from "./usertable";
-import Home from "./Home";
-import Login from "./Login";
+import Home from "./home";
+import Login from "./login";
 
 function App() {
   return (
